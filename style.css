@@ -18,5 +18,9 @@ body {
 .place__holder__image {
   width: 100%;
 }
-
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 2rem;
+  text-align: center;
+}
 
